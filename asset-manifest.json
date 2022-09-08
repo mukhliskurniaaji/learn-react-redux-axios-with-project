@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-axios/static/css/main.abd64e84.css",
+    "main.js": "/react-redux-axios/static/js/main.582026a9.js",
+    "index.html": "/react-redux-axios/index.html",
+    "main.abd64e84.css.map": "/react-redux-axios/static/css/main.abd64e84.css.map",
+    "main.582026a9.js.map": "/react-redux-axios/static/js/main.582026a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.582026a9.js"
+  ]
+}
